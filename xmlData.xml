@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <PersonId>1</PersonId>
+    <PhoneNumber>98232233</PhoneNumber>
+    <Name>Sachin</Name>
+    <Address>bnglr</Address>
+  </Person>
+  <Person>
+    <PersonId>2</PersonId>
+    <PhoneNumber>98232233</PhoneNumber>
+    <Name>Ashwin</Name>
+    <Address>krntk</Address>
+  </Person>
+  <Person>
+    <PersonId>3</PersonId>
+    <PhoneNumber>98232233</PhoneNumber>
+    <Name>Dhoni</Name>
+    <Address>delhi</Address>
+  </Person>
+  <Person>
+    <PersonId>4</PersonId>
+    <PhoneNumber>98232233</PhoneNumber>
+    <Name>Kumar</Name>
+    <Address>mumbai</Address>
+  </Person>
+</ArrayOfPerson>
